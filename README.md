@@ -15,7 +15,7 @@ W projekcie zaimplementowano:
 
 
 
-\- system tworzenia i dołączania do sesji multiplayer (LAN),
+\- system tworzenia i dołączania do sesji multiplayer (LAN), ( działa tylko jak masz włączony Steam ) 
 
 \- lobby z przejściem do mapy gry (Server Travel, Seamless Travel),
 
